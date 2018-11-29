@@ -16,6 +16,7 @@ var menu = '      <nav class="navbar navbar-default">' +
 '                              <li><a href="/dht.html">DHT<span class="glyphicon glyphicon-tint pull-right"></span></a></li>' +
 '                              <li><a href="/adc.html">ADC<span class="glyphicon glyphicon-scale pull-right"></span></a></li>' +
 '                              <li><a href="/kwhint.html">kWh Interrupt<span class="glyphicon glyphicon-flash pull-right"></span></a></li>' +
+'                              <li><a href="/vallox.html">Vallox<span class="glyphicon glyphicon-cloud pull-right"></span></a></li>' +
 '                           </ul>' +
 '                        </li>' +
 '                        <li class="dropdown-submenu">' +
